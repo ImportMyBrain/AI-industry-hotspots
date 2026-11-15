@@ -27,6 +27,8 @@ AI-industry-hotspots-YYYY-MM-DD.md
 | 日期 | 文件名 | 当日瓜田摘要 |
 |------|--------|------|
 | 2026-11-15 | [AI-industry-hotspots-2026-11-15.md](./AI-industry-hotspots-2026-11-15.md) | Anthropic 路演估值缩水三成；ChatGPT 学会刷卡；Gemini 4 Hydrogen 便宜又快；四家 NGO 把五家实验室告了 |
+| 2026-11-14 | [AI-industry-hotspots-2026-11-14.md](./AI-industry-hotspots-2026-11-14.md) | 英伟达被曝"自导自演"缺货；LangChain 30 亿美元估值；OpenAI 再拆机器人团队；Claude 读完哥德尔手稿 |
+| 2026-11-13 | [AI-industry-hotspots-2026-11-13.md](./AI-industry-hotspots-2026-11-13.md) | 黄仁勋闪辞英伟达 CEO；Gemini 4 Hydrogen 发布；ChatGPT Wallet 上线；四家 NGO 起诉五家 AI 巨头 |
 | 2026-11-12 | [AI-industry-hotspots-2026-11-12.md](./AI-industry-hotspots-2026-11-12.md) | 美国想把"远程用卡"也堵上；Google 发了个不会聊天的决策模型；Meta 把模型摆上 Google Cloud 货架；美联航不让 AI 代买机票 |
 | 2026-11-11 | [AI-industry-hotspots-2026-11-11.md](./AI-industry-hotspots-2026-11-11.md) | Anthropic IPO 定价 70–78 美元还被抢超；Google TPU 切机密推理；DeepMind 把 Signal 验证到机器码；微软说 10 个神经元就能埋后门 |
 | 2026-11-10 | [AI-industry-hotspots-2026-11-10.md](./AI-industry-hotspots-2026-11-10.md) | Claude Fable 5.2 降价还刷榜；Meta 0.1 美刀/百万 token 卷到地板；3 天证明量子猜想；Anthropic IPO 路演准时开摆 |
