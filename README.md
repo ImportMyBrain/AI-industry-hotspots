@@ -26,6 +26,7 @@ AI-industry-hotspots-YYYY-MM-DD.md
 
 | 日期 | 文件名 | 当日瓜田摘要 |
 |------|--------|------|
+| 2026-11-18 | [AI-industry-hotspots-2026-11-18.md](./AI-industry-hotspots-2026-11-18.md) | OpenAI 发 GPT-6.2 双模型；英伟达千亿财报但拒绝黄仁勋回归；Anthropic 明日挂牌；微软拉 40 家搞 AI 透明度；巴黎宣言扩到 17 国 |
 | 2026-11-17 | [AI-industry-hotspots-2026-11-17.md](./AI-industry-hotspots-2026-11-17.md) | Anthropic 自曝 3 天适配 AMD；Rubin 横扫 MLPerf；Qwen4-Max 正式发布；AMD 收下 World Labs；华为开源具身世界模型；澳洲要强制 AI 安全立法 |
 | 2026-11-15 | [AI-industry-hotspots-2026-11-15.md](./AI-industry-hotspots-2026-11-15.md) | Anthropic 路演估值缩水三成；ChatGPT 学会刷卡；Gemini 4 Hydrogen 便宜又快；四家 NGO 把五家实验室告了 |
 | 2026-11-14 | [AI-industry-hotspots-2026-11-14.md](./AI-industry-hotspots-2026-11-14.md) | 英伟达被曝"自导自演"缺货；LangChain 30 亿美元估值；OpenAI 再拆机器人团队；Claude 读完哥德尔手稿 |
