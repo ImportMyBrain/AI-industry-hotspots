@@ -26,6 +26,7 @@ AI-industry-hotspots-YYYY-MM-DD.md
 
 | 日期 | 文件名 | 当日瓜田摘要 |
 |------|--------|------|
+| 2026-11-21 | [AI-industry-hotspots-2026-11-21.md](./AI-industry-hotspots-2026-11-21.md) | Claude 挑战黎曼猜想仍待验证；Gemini 开始操作 Mac；美国两党端出 SAFE AI Act；Anthropic 创纪录 IPO 后 AI 股回调 |
 | 2026-11-20 | [AI-industry-hotspots-2026-11-20.md](./AI-industry-hotspots-2026-11-20.md) | Anthropic IPO 交割募资 935 亿美元、次日跌 6%；DeepSeek 1050 亿元融资落定；英伟达拟 5 亿美元收购 Inception；微软×英伟达把大模型塞进 Windows PC |
 | 2026-11-19 | [AI-industry-hotspots-2026-11-19.md](./AI-industry-hotspots-2026-11-19.md) | Gemini 4 Neon 三美元开卖；OpenAI 用模型改 AMD GPU 电路；苹果被曝自研自主智能体；德国电信 1 亿欧元投 Mistral |
 | 2026-11-18 | [AI-industry-hotspots-2026-11-18.md](./AI-industry-hotspots-2026-11-18.md) | OpenAI 发 GPT-6.2 双模型；英伟达千亿财报但拒绝黄仁勋回归；Anthropic 明日挂牌；微软拉 40 家搞 AI 透明度；巴黎宣言扩到 17 国 |
